@@ -20,7 +20,7 @@ def _start(c, m):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Join Project Channel!', url='https://t.me/odbots')
+                    InlineKeyboardButton('🚥Subscribe To My Channel!🙏', url='https://youtube.com/channel/UCOUMWBgL80w6SwG2T6wJbIQ')
                 ]
             ]
         )
