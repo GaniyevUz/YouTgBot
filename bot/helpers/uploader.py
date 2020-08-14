@@ -60,7 +60,7 @@ class Uploader:
             categoryName = self.video_category[categoryId]
             title = self.title if self.title else os.path.basename(self.file)
             title = (Config.VIDEO_TITLE_PREFIX + title + Config.VIDEO_TITLE_SUFFIX).replace('<', '').replace('>', '')[:100]
-            description = (Config.VIDEO_DESCRIPTION + '\nUploaded to YouTube with https://tx.me/youtubeitbot')[:5000]
+            description = (Config.VIDEO_DESCRIPTION + '\n\n#Jahongir #jahongirvlogs #youtube #vlogger #kinolar #ozbek #tilida #sifatli #formatda #hind #kino #va #tarjima #kinolar #tiniq #premyera #ujas #Trilller #Drama #Kriminal #Detektiv #komediya #sarguzasht #ilmiy #fontastik #tarixiy #fantaziya #multfilm #daxshatli #zombie')[:5000]
             if not Config.UPLOAD_MODE:
                 privacyStatus = 'private'
             else:
