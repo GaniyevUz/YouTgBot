@@ -11,7 +11,7 @@
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
-      "value": "yotgbot",
+      "value": "youtgbot",
       "required":false
     },
     "API_ID": {
@@ -20,15 +20,15 @@
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": "1387488194:AAGX28oqq-VKSYalzkHgxnosd171ipljhHY"
+      "value": "1387488194:AAGX28oqq-VKSYalzkHgxnosd171ipljhHY",
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": "76931193368-92srm6vo99avc9og2l5bm8hncd33ad2k.apps.googleusercontent.com"
+      "value": "76931193368-92srm6vo99avc9og2l5bm8hncd33ad2k.apps.googleusercontent.com",
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": "bVQW-KAJeP7-8VjA-0TzO7VP"
+      "value": "bVQW-KAJeP7-8VjA-0TzO7VP",
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
@@ -41,14 +41,8 @@
     },
     "VIDEO_DESCRIPTION": {
       "description": "Any default description to be aded to the video.",
-      "value": "
-Videoni ko'rgan har bir kishi👍Like bosishlarini so'raymiz.Kommentda fikrlarni qoldiring,keyingi sonida qanday videolar bo'lishini istasangiz bu haqida ham yozib qoldiring.
-
-🔔 Qo'ng'iroqcha tugmasini bosib qo'ying, shunda siz bizning eng yangi videolarimizni o'tkazib yubormaysiz! (Qo'ng'iroqcha tugmasi 🔔 Подписаться belgisi oldida joylashgan).
-
-
-#Jahongir #jahongirvlogs #youtube #vlogger #kinolar #ozbek #tilida #sifatli #formatda #hind #kino #va #tarjima #kinolar #tiniq #premyera #ujas #Trilller #Drama #Kriminal #Detektiv #komediya #sarguzasht #ilmiy #fontastik #tarixiy #fantaziya #multfilm #daxshatli #zombie",
-      "required":false
+      "value": "",
+    "required":false
     },
     "VIDEO_CATEGORY": {
       "description": "YouTube's video category id.",
