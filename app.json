@@ -11,24 +11,24 @@
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
-      "value": "youtgbot",
+      "value": "youtubeitbot",
       "required":false
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": "849569"
+      "value": ""
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": "1387488194:AAGX28oqq-VKSYalzkHgxnosd171ipljhHY",
+      "value": ""
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": "76931193368-92srm6vo99avc9og2l5bm8hncd33ad2k.apps.googleusercontent.com",
+      "value": ""
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": "bVQW-KAJeP7-8VjA-0TzO7VP",
+      "value": ""
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
@@ -42,7 +42,7 @@
     "VIDEO_DESCRIPTION": {
       "description": "Any default description to be aded to the video.",
       "value": "",
-    "required":false
+      "required":false
     },
     "VIDEO_CATEGORY": {
       "description": "YouTube's video category id.",
